@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mslearn-dotnet-files", "mslearn-dotnet-files.csproj", "{B836CE4C-ACD1-45D0-9DE9-AA9921AC02AB}"
+=======
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mslearn-dotnet-files", "mslearn-dotnet-files.csproj", "{A50F7E74-F68F-445B-9920-14310A8AAEA2}"
+>>>>>>> c5444ec685af21d94fbeec0825d49d1f3b40657e
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{B836CE4C-ACD1-45D0-9DE9-AA9921AC02AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B836CE4C-ACD1-45D0-9DE9-AA9921AC02AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B836CE4C-ACD1-45D0-9DE9-AA9921AC02AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B836CE4C-ACD1-45D0-9DE9-AA9921AC02AB}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{A50F7E74-F68F-445B-9920-14310A8AAEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50F7E74-F68F-445B-9920-14310A8AAEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50F7E74-F68F-445B-9920-14310A8AAEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50F7E74-F68F-445B-9920-14310A8AAEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> c5444ec685af21d94fbeec0825d49d1f3b40657e
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {BBBC12C0-1CB1-4920-A8FF-AB98B8492CCC}
+=======
+		SolutionGuid = {D4DD5B4C-31E2-4884-855F-40B006BE25F0}
+>>>>>>> c5444ec685af21d94fbeec0825d49d1f3b40657e
 	EndGlobalSection
 EndGlobal
